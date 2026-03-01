@@ -8,7 +8,7 @@ I am a Cybersecurity student focused on securing network infrastructures, analyz
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="35" align="center" /> Tech Stack
 
-Welcome to the battle deck — here's the arsenal I deploy across network defense, SIEM monitoring, vulnerability assessment, and security automation.
+Welcome to the battle deck - here's the arsenal I deploy across network defense, SIEM monitoring, vulnerability assessment, and security automation.
 
 ---
 
